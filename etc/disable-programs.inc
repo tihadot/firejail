@@ -22,6 +22,7 @@ blacklist ${HOME}/.LuminanceHDR
 blacklist ${HOME}/.Mathematica
 blacklist ${HOME}/.Natron
 blacklist ${HOME}/.PlayOnLinux
+blacklist ${HOME}/.PortfolioPerformance
 blacklist ${HOME}/.PyCharm*
 blacklist ${HOME}/.Sayonara
 blacklist ${HOME}/.Skype
@@ -344,6 +345,7 @@ blacklist ${HOME}/.dooble
 blacklist ${HOME}/.dosbox
 blacklist ${HOME}/.dropbox*
 blacklist ${HOME}/.easystroke
+blacklist ${HOME}/.eclipse
 blacklist ${HOME}/.electron-cache
 blacklist ${HOME}/.electrum*
 blacklist ${HOME}/.elinks
@@ -772,6 +774,7 @@ blacklist ${HOME}/.cache/pdfmod
 blacklist ${HOME}/.cache/peek
 blacklist ${HOME}/.cache/plasmashell
 blacklist ${HOME}/.cache/plasmashellbookmarkrunnerfirefoxdbfile.sqlite*
+blacklist ${HOME}/.cache/Portfolio Performance/
 blacklist ${HOME}/.cache/qBittorrent
 blacklist ${HOME}/.cache/qupzilla
 blacklist ${HOME}/.cache/qutebrowser
